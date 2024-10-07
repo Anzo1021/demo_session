@@ -1,2 +1,3 @@
 # demo_session
-This is my first git repository
+This is my first git repository.
+Author-anjali jaiswal
